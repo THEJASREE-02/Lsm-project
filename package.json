@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shamahoque/mern-classroom.git"
+    "url": "https://github.com/THEJASREE-02/lsm-project.git"
   },
-  "homepage": "https://github.com/shamahoque/mern-classroom",
+  "homepage": "https://github.com/THEJASREE-02/lsm-project.git",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",

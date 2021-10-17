@@ -14,7 +14,6 @@ export default ({markup, css}) => {
               a{
                 text-decoration: none;
                 color: #bb4d00;
-                background:orange
               }
           </style>
         </head>

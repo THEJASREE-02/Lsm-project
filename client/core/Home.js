@@ -17,16 +17,14 @@ const useStyles = makeStyles(theme => ({
     marginTop: 20,
     marginBottom: theme.spacing(2),
     padding: 20,
-    backgroundColor: 'rgb(248, 158, 74)' 
+    backgroundColor: '#ffffff' 
   },
   extraTop: {
     marginTop: theme.spacing(12)
-    
   },
   title: {
     padding:`${theme.spacing(3)}px ${theme.spacing(2.5)}px ${theme.spacing(2)}px`,
-    color: theme.palette.openTitle,
-    backgroundColor: 'rgb(248, 158, 74)'
+    color: theme.palette.openTitle
   },
   media: {
     minHeight: 400
@@ -34,8 +32,7 @@ const useStyles = makeStyles(theme => ({
   gridList: {
     width: '100%',
     minHeight: 200,
-    padding: '16px 0 10px',
-    backgroundColor: 'rgb(248, 158, 74)'
+    padding: '16px 0 10px'
   },
   tile: {
     textAlign: 'center'
